@@ -1,10 +1,6 @@
 # VCRefreshControl
 
-[![CI Status](http://img.shields.io/travis/eugene/VCRefreshControl.svg?style=flat)](https://travis-ci.org/eugene/VCRefreshControl)
-[![Version](https://img.shields.io/cocoapods/v/VCRefreshControl.svg?style=flat)](http://cocoadocs.org/docsets/VCRefreshControl)
-[![License](https://img.shields.io/cocoapods/l/VCRefreshControl.svg?style=flat)](http://cocoadocs.org/docsets/VCRefreshControl)
-[![Platform](https://img.shields.io/cocoapods/p/VCRefreshControl.svg?style=flat)](http://cocoadocs.org/docsets/VCRefreshControl)
-
+Glitch free UIRefreshControl for UITableView without UITableViewController.
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
