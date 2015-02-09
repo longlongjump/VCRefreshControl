@@ -1,8 +1,13 @@
 # VCRefreshControl
 
 Glitch free UIRefreshControl for UITableView without UITableViewController.
+
 ## Usage
 
+Just add it as subview.
+```
+[self.tablewView addSubview:self.refreshControl] 
+```
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
