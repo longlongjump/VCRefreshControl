@@ -1,0 +1,11 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'VCRefreshControl', :exclusive => true do
+  pod "VCRefreshControl", :path => "../"
+end
+
+target 'Tests', :exclusive => true do
+  pod "VCRefreshControl", :path => "../"
+
+  pod 'FBSnapshotTestCase'
+end
