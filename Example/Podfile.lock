@@ -1,0 +1,14 @@
+PODS:
+  - VCRefreshControl (0.1.0)
+
+DEPENDENCIES:
+  - VCRefreshControl (from `../`)
+
+EXTERNAL SOURCES:
+  VCRefreshControl:
+    :path: ../
+
+SPEC CHECKSUMS:
+  VCRefreshControl: d76ec5956900359fe59b7f788a3e894fb1930f5b
+
+COCOAPODS: 0.35.0

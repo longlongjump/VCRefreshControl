@@ -7,6 +7,7 @@
 //
 
 #import "VCViewController.h"
+#import "VCRefreshControl.h"
 
 @interface VCViewController ()
 
